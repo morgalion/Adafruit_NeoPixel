@@ -48,7 +48,7 @@
 //Locate Delay.h file in your local Marlin copy: Marlin 2.0/Marlin/Marlin/src/HAL/shared/Delay.h
 //and enter full path to this file below
 
-#include <replace with path to Delay.h file>
+#include "D:\imprimante 3D\Marlin-bugfix-2.0.x\Marlin\src\HAL\shared\Delay.h"
 
 
 #ifdef TARGET_LPC1768
